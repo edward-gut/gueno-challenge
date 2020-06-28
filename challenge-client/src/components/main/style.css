@@ -1,0 +1,47 @@
+.main{
+    background: url('../../assets/img/bg.jpg') center center no-repeat;
+    background-size: cover;
+    display: block;
+    height: 100vh;
+}
+.searchDraw{
+     margin-top: 5vh;
+     height: 30vh;
+}
+.searchContainer{
+    height: 20vh;
+    display: flex;
+    align-items: center;
+}
+.searchForm{
+    padding: 2px 4px;
+    display: flex;
+    align-items: center;
+    width: 400px;
+}
+.search{
+    margin-left: 20px;
+    flex: 1;
+}
+.searchIcon{
+    padding: 10;
+}
+.title{
+    color:white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: "Helvetica";
+    font-size: 2em;
+    font-weight: bold;
+}
+.resultContainer{
+}
+.cardResult{
+    padding: 2px 4px;
+    width: 600px;
+    font-size: 3em !important;
+}
+.scoring{
+    color: '#52af77'
+}
